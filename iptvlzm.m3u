@@ -1,6 +1,3 @@
 #EXTM3U
-https://list.iptvcat.com/my_list/s/b7da15a025400ceca7f00a075bf490bd.m3u8
-
-https://list.iptvcat.com/my_list/s/a9295fef3168e2486ab36012a715fa19.m3u8
-
-https://list.iptvcat.com/my_list/s/2c6e8a7cd76ff64f1e0fc7883bf6569a.m3u8
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.postimg.cc/HsqNM8Hc/globaltv.png" group-title="Undefined",GTV (720p)
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8?checkedby:iptvcat.com
